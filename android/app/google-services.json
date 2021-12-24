@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727146521562",
+    "project_id": "listbelanja-1fb07",
+    "storage_bucket": "listbelanja-1fb07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727146521562:android:948bfc8639b8cd3e7e16e3",
+        "android_client_info": {
+          "package_name": "com.example.list_belanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727146521562-nlm5hin1vf945hs3o6iore1mbp3o5na7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyr-0h1nVXYJHgnAT6bUl5I1jLaikDIsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727146521562-nlm5hin1vf945hs3o6iore1mbp3o5na7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
